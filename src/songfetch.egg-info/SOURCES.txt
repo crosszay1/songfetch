@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/songfetch/__init__.py
+src/songfetch/ascii_convert.py
+src/songfetch/main.py
+src/songfetch/player_utils.py
+src/songfetch.egg-info/PKG-INFO
+src/songfetch.egg-info/SOURCES.txt
+src/songfetch.egg-info/dependency_links.txt
+src/songfetch.egg-info/entry_points.txt
+src/songfetch.egg-info/requires.txt
+src/songfetch.egg-info/top_level.txt
+src/songfetch/assets/default_art.txt
